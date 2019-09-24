@@ -1,0 +1,28 @@
+.crystals{
+    display: flex;
+    justify-content: space-around;
+    align-items: normal;
+}
+.crystal{
+    border:2px solid purple;
+    height:100px;
+    width: 100px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(54, 0, 0, 0.5);
+   
+}
+.crystal:hover{
+    box-shadow: 5px 5px 5px rgba(231, 231, 231, 0.733);
+ 
+   
+  
+}
+img{
+    width:90px;
+}
+
+body {
+    color:rgb(175, 184, 175);
+    background-color: rgb(39, 38, 38);
+}
+
